@@ -104,7 +104,3 @@ Este proyecto es una herramienta fullstack para generar recursos educativos dest
 3. Desde el dashboard, seleccionar el tipo de recurso a generar
 4. Completar el formulario con las opciones deseadas
 5. Generar el recurso, previsualizarlo y descargarlo o editarlo
-
-## Licencia
-
-Este proyecto es de código abierto bajo la licencia MIT.
